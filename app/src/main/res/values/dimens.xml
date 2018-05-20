@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="text_view_margin">14dp</dimen>
+</resources>
+
